@@ -1,4 +1,4 @@
-# 📊 Sales Analytics & Forecasting System
+# Sales Analytics & Forecasting System
 
 ## Dashboard Preview
 
