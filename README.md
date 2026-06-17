@@ -1,5 +1,10 @@
 # 📊 Sales Analytics & Forecasting System
 
+## Dashboard Preview
+
+<img width="1756" height="822" alt="image" src="https://github.com/user-attachments/assets/d64cabc2-1ebb-4d36-b2f7-26e0ef9b6806" />
+
+
 ## Overview
 
 Sales Analytics & Forecasting System is an end-to-end data analytics project built using Python, SQL, Excel, and Streamlit. The application enables users to upload sales data, analyze business performance, visualize key metrics, and generate sales forecasts through an interactive dashboard.
